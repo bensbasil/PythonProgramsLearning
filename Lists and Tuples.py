@@ -1,4 +1,4 @@
-my_list = []
+my_list =[]
 num_elements=int(input("Enter the number of elements: "))
 for i in range(num_elements):
     elements=input(f"Element {i+1}: ")
